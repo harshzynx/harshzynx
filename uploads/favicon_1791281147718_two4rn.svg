@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="hzGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <linearGradient id="hzGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="#0A0F1D" />
+  <rect x="24" y="24" width="464" height="464" rx="104" stroke="#1E293B" stroke-width="8" />
+  <!-- Stylized Geometric H / Z icon -->
+  <path d="M140 130 H210 V230 H302 V130 H372 V382 H302 V286 H210 V382 H140 Z" fill="url(#hzGrad)" />
+  <path d="M210 200 L302 312" stroke="url(#hzGlow)" stroke-width="24" stroke-linecap="round" />
+  <circle cx="372" cy="130" r="14" fill="#60A5FA" />
+  <circle cx="140" cy="382" r="14" fill="#3B82F6" />
+</svg>

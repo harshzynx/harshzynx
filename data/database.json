@@ -1,0 +1,616 @@
+{
+  "admins": [
+    {
+      "id": "admin_initial",
+      "email": "harshsharma18089@gmail.com",
+      "passwordHash": "$2b$10$c3LgNhx2jx1nGSxJ1cJtk.MxJk9k9QiwUUqbYydUfwvse1/Edlvk.",
+      "createdAt": "2026-10-06T05:48:54.375Z",
+      "lastLoginAt": "2026-10-06T10:05:28.826Z"
+    }
+  ],
+  "profile": {
+    "name": "Harsh Raj",
+    "brandName": "HARSHZYNX",
+    "tagline": "Full Stack & Android Developer · Data Science",
+    "intro": "Building robust applications and data intelligence solutions.",
+    "avatarUrl": "/uploads/favicon_1791281147718_two4rn.svg",
+    "heroBackdropUrl": "",
+    "resumeUrl": "",
+    "location": "India",
+    "email": "harshsharma18089@gmail.com",
+    "phone": "",
+    "status": "Available for Collaboration",
+    "college": "Indian Institute of Information Technology",
+    "degree": "B.Tech in Computer Science",
+    "graduationYear": "2026",
+    "twelfthSchool": "Delhi Public School",
+    "twelfthPercentage": "94.6%",
+    "tenthSchool": "St. Xavier's High School",
+    "tenthPercentage": "96.2%"
+  },
+  "about": {
+    "name": "Harsh Raj",
+    "shortBio": "Enthusiastic full-stack and Android developer passionate about data science, clean software architecture, and modern developer tooling.",
+    "fullBio": "I am Harsh Raj (HARSHZYNX), an engineer and creator driven by curiosity. I bridge the intersection of modern web development, native Android app building, and applied data analytics. I take pride in crafting clean, accessible user experiences and scalable backend services.",
+    "location": "India",
+    "education": "B.Tech in Computer Science",
+    "university": "Indian Institute of Information Technology",
+    "graduationYear": "2026",
+    "interests": [
+      "Android (Kotlin, Jetpack)",
+      "Full-Stack Web (React, Node.js, TypeScript)",
+      "Data Science & Predictive Modeling",
+      "Clean Architecture & APIs",
+      "Open Source Software"
+    ],
+    "careerGoals": "To build high-performance software products that solve real-world problems while continuously exploring data intelligence.",
+    "college": "Indian Institute of Information Technology",
+    "degree": "B.Tech in Computer Science",
+    "twelfthSchool": "Delhi Public School",
+    "twelfthPercentage": "94.6%",
+    "tenthSchool": "St. Xavier's High School",
+    "tenthPercentage": "96.2%"
+  },
+  "timeline": [
+    {
+      "id": "timeline_1",
+      "year": "2023",
+      "title": "Commenced Computer Science Studies",
+      "description": "Began academic journey diving deep into data structures, algorithms, and core computing principles.",
+      "category": "Education",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "timeline_2",
+      "year": "2024",
+      "title": "Android & Full-Stack Exploration",
+      "description": "Developed native Android apps and modern responsive web systems with TypeScript and Node.js.",
+      "category": "Milestone",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "timeline_3",
+      "year": "2025",
+      "title": "Data Science & Machine Learning Deep Dive",
+      "description": "Explored data analytics pipelines, exploratory data analysis, and predictive model training.",
+      "category": "Milestone",
+      "featured": true,
+      "order": 3
+    },
+    {
+      "id": "timeline_4",
+      "year": "2026",
+      "title": "HARSHZYNX Brand Platform Launch",
+      "description": "Launched official personal brand hub and self-hosted content management platform.",
+      "category": "Project",
+      "featured": true,
+      "order": 4
+    }
+  ],
+  "skills": [
+    {
+      "id": "sk_1",
+      "name": "TypeScript / JavaScript",
+      "category": "Programming",
+      "icon": "Code",
+      "level": 90,
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "id": "sk_2",
+      "name": "Kotlin / Java",
+      "category": "Android",
+      "icon": "Smartphone",
+      "level": 85,
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "id": "sk_3",
+      "name": "Python",
+      "category": "Data Science",
+      "icon": "Terminal",
+      "level": 80,
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "id": "sk_4",
+      "name": "React & Next.js",
+      "category": "Web Development",
+      "icon": "Layers",
+      "level": 88,
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "id": "sk_5",
+      "name": "Node.js & Express",
+      "category": "Web Development",
+      "icon": "Server",
+      "level": 84,
+      "order": 5,
+      "enabled": true
+    },
+    {
+      "id": "sk_6",
+      "name": "Android SDK & Jetpack",
+      "category": "Android",
+      "icon": "Cpu",
+      "level": 82,
+      "order": 6,
+      "enabled": true
+    },
+    {
+      "id": "sk_7",
+      "name": "Data Analysis (Pandas, NumPy)",
+      "category": "Data Science",
+      "icon": "BarChart3",
+      "level": 78,
+      "order": 7,
+      "enabled": true
+    },
+    {
+      "id": "sk_8",
+      "name": "Tailwind CSS",
+      "category": "Web Development",
+      "icon": "Palette",
+      "level": 92,
+      "order": 8,
+      "enabled": true
+    },
+    {
+      "id": "sk_9",
+      "name": "PostgreSQL & SQLite",
+      "category": "Database",
+      "icon": "Database",
+      "level": 80,
+      "order": 9,
+      "enabled": true
+    },
+    {
+      "id": "sk_10",
+      "name": "Git & GitHub Workflows",
+      "category": "Tools",
+      "icon": "GitBranch",
+      "level": 88,
+      "order": 10,
+      "enabled": true
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_1",
+      "slug": "harshzynx-brand-platform",
+      "name": "HARSHZYNX Brand Platform",
+      "shortDescription": "Production full-stack personal brand ecosystem with custom CMS and analytics.",
+      "detailedDescription": "Engineered a modern, high-performance personal digital brand platform featuring dynamic content management, real-time analytics, and mobile-friendly digital business card.",
+      "image": "/src/assets/images/harsh_developer_portrait_1791264967532.jpg",
+      "gallery": [],
+      "technologies": [
+        "React 19",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "Tailwind CSS"
+      ],
+      "category": "Web Development",
+      "githubUrl": "https://github.com/harshsharma18089",
+      "problem": "Needed a unified, self-hosted platform allowing instant updates without modifying source code.",
+      "solution": "Built a headless API with atomic file database persistence, multi-tab CMS, and responsive public showcase.",
+      "features": [
+        "Full-featured admin dashboard with real-time editing",
+        "First-party privacy-respecting analytics",
+        "PWA support and Digital Business Card"
+      ],
+      "status": "Completed",
+      "featured": true,
+      "order": 1,
+      "enabled": true
+    }
+  ],
+  "custom_links": [
+    {
+      "id": "link_1",
+      "title": "GitHub Repositories",
+      "description": "Explore my open source code, Android projects, and web experiments.",
+      "url": "https://github.com/harshsharma18089",
+      "icon": "Github",
+      "category": "Code",
+      "buttonText": "View GitHub",
+      "badge": "Open Source",
+      "order": 1,
+      "featured": true,
+      "active": true,
+      "openInNewTab": true
+    },
+    {
+      "id": "link_2",
+      "title": "LinkedIn Network",
+      "description": "Connect professionally and view career updates.",
+      "url": "https://www.linkedin.com",
+      "icon": "Linkedin",
+      "category": "Professional",
+      "buttonText": "Connect on LinkedIn",
+      "badge": "Network",
+      "order": 2,
+      "featured": true,
+      "active": true,
+      "openInNewTab": true
+    }
+  ],
+  "apps": [
+    {
+      "id": "app_1",
+      "name": "Radha Jap",
+      "icon": "HeartHandshake",
+      "description": "A serene spiritual chanting and counting Android application built for focused daily mindfulness.",
+      "screenshots": [],
+      "playStoreUrl": "",
+      "version": "1.0.0",
+      "category": "Lifestyle & Android",
+      "featured": true,
+      "status": "In Development",
+      "order": 1
+    }
+  ],
+  "social_links": [
+    {
+      "id": "soc_1",
+      "platform": "GitHub",
+      "username": "harshsharma18089",
+      "url": "https://github.com/harshsharma18089",
+      "icon": "Github",
+      "active": true,
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "soc_2",
+      "platform": "LinkedIn",
+      "username": "Harsh Raj",
+      "url": "https://linkedin.com",
+      "icon": "Linkedin",
+      "active": true,
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "soc_3",
+      "platform": "X",
+      "username": "harshzynx",
+      "url": "https://x.com",
+      "icon": "Twitter",
+      "active": true,
+      "featured": true,
+      "order": 3
+    },
+    {
+      "id": "soc_4",
+      "platform": "Instagram",
+      "username": "harshzynx",
+      "url": "https://instagram.com",
+      "icon": "Instagram",
+      "active": true,
+      "featured": true,
+      "order": 4
+    },
+    {
+      "id": "soc_5",
+      "platform": "YouTube",
+      "username": "HARSHZYNX",
+      "url": "https://youtube.com",
+      "icon": "Youtube",
+      "active": true,
+      "featured": false,
+      "order": 5
+    }
+  ],
+  "instagram_posts": [],
+  "youtube_videos": [],
+  "certificates": [],
+  "resumes": [],
+  "blog_posts": [
+    {
+      "id": "post_1",
+      "slug": "building-harshzynx-personal-brand",
+      "title": "Architecting HARSHZYNX: Why I Built My Own Headless Portfolio & CMS",
+      "excerpt": "An inside look into designing a responsive developer platform with self-hosted database persistence and zero third-party dependencies.",
+      "content": "As developers, we frequently default to static template generators or third-party hosting that locks our personal content behind external services. \n\nWhen building **HARSHZYNX**, my goal was simple: complete sovereignty over my digital presence.\n\n### Key Architectural Tenets:\n1. **Zero Fake Metrics:** Real information only.\n2. **Instant Content Control:** Full CMS allowing instant updates to projects, links, skills, and timeline entries without git commits.\n3. **Privacy First:** First-party event analytics that never track cookies or invasive user fingerprinting.\n\nI'm excited to keep iterating on this platform as I advance further in Android development and Data Science.",
+      "category": "Engineering",
+      "tags": [
+        "Architecture",
+        "TypeScript",
+        "CMS",
+        "Personal Brand"
+      ],
+      "author": "Harsh Raj",
+      "date": "2026-10-06",
+      "featured": true,
+      "published": true,
+      "seoTitle": "Architecting HARSHZYNX — Harsh Raj",
+      "seoDescription": "Why I built my own full-stack personal brand platform and headless CMS.",
+      "readTimeMinutes": 4
+    }
+  ],
+  "gallery": [],
+  "currently": {
+    "learning": "Data Science & Deep Learning Pipelines",
+    "building": "HARSHZYNX Ecosystem & Native Android Utilities",
+    "focus": "Scalable Full-Stack Architecture & Applied Machine Learning",
+    "availability": "Open for engineering roles, internships & freelance projects",
+    "goals": "Publishing quality open-source tools and mastering end-to-end data pipelines"
+  },
+  "achievements": [],
+  "experience": [
+    {
+      "id": "exp_1",
+      "role": "Full-Stack & Android Developer",
+      "organization": "Independent / Freelance",
+      "startDate": "2024-01",
+      "isCurrent": true,
+      "description": "Designing bespoke web applications, responsive user interfaces, and exploring Android applications with Jetpack Compose.",
+      "technologies": [
+        "React",
+        "Kotlin",
+        "TypeScript",
+        "Node.js",
+        "Tailwind CSS"
+      ],
+      "order": 1
+    }
+  ],
+  "contact_messages": [],
+  "announcements": [
+    {
+      "id": "ann_1",
+      "title": "Welcome to HARSHZYNX!",
+      "description": "The official digital portfolio and personal platform for Harsh Raj is now live.",
+      "link": "#projects",
+      "buttonText": "Explore Projects",
+      "startDate": "2026-10-06",
+      "active": true
+    }
+  ],
+  "changelog": [
+    {
+      "id": "ch_1",
+      "version": "1.0.0",
+      "date": "2026-10-06",
+      "title": "Initial Production Release of HARSHZYNX",
+      "features": [
+        "Full-stack architecture with Express & Vite middleware",
+        "Administrative CMS with real-time database persistence",
+        "HARSHZYNX OS Mode desktop environment",
+        "Ask Harsh AI assistant grounded strictly on database facts",
+        "First-party privacy analytics and link tracking"
+      ],
+      "improvements": [
+        "Optimized dark-first styling with Plus Jakarta Sans",
+        "Mobile-first Digital Business Card with real QR code generator"
+      ],
+      "fixes": [
+        "Zero external dependency failures or fake telemetry"
+      ],
+      "breakingChanges": [],
+      "published": true
+    }
+  ],
+  "life_travel": [],
+  "link_analytics": [],
+  "website_settings": {
+    "siteTitle": "HARSHZYNX — Harsh Raj Portfolio & CMS",
+    "logoText": "HARSHZYNX",
+    "heroTitle": "My New Portfolio",
+    "heroDescription": "Developer · Android & Web Architect · Data Science Learner",
+    "footerText": "HARSHZYNX — All Rights Reserved",
+    "contactEmail": "harshsharma18089@gmail.com",
+    "theme": "dark",
+    "accentColor": "blue",
+    "maintenanceMode": false,
+    "osModeEnabled": true,
+    "easterEggsEnabled": true,
+    "themeCustomizer": {
+      "primaryAccent": "blue",
+      "secondaryAccent": "#60a5fa",
+      "borderRadius": "rounded",
+      "cardStyle": "glass",
+      "glassIntensity": "medium",
+      "animationIntensity": "standard",
+      "glowIntensity": "subtle",
+      "buttonStyle": "rounded",
+      "uiDensity": "comfortable"
+    },
+    "aiSettings": {
+      "enabled": true,
+      "systemInstruction": "",
+      "allowedDataSources": [],
+      "welcomeMessage": "Hello!",
+      "totalQueries": 0
+    },
+    "seoSettings": {
+      "metaTitle": "",
+      "metaDescription": "",
+      "ogTitle": "",
+      "ogDescription": "",
+      "ogImage": "",
+      "canonicalUrl": "",
+      "keywords": ""
+    },
+    "sectionsVisibility": {
+      "about": true,
+      "journey": true,
+      "skills": true,
+      "projects": true,
+      "apps": true,
+      "customLinks": true,
+      "currently": true,
+      "experience": true,
+      "achievements": true,
+      "certificates": true,
+      "youtube": true,
+      "instagram": true,
+      "gallery": true,
+      "blog": true,
+      "resume": true,
+      "contact": true,
+      "changelog": true,
+      "lifeTravel": true
+    }
+  },
+  "analytics_events": [
+    {
+      "id": "ev_1791280863206_90tek",
+      "type": "page_view",
+      "path": "/",
+      "timestamp": "2026-10-06T10:01:03.206Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "ev_1791278615703_r9ws5",
+      "type": "page_view",
+      "path": "/",
+      "timestamp": "2026-10-06T09:23:35.703Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "ev_1791265814417_e8tpy",
+      "type": "page_view",
+      "path": "/",
+      "timestamp": "2026-10-06T05:50:14.417Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "ev_1791265747818_cgsix",
+      "type": "contact_submit",
+      "path": "/contact",
+      "targetId": "msg_1791265747818_stog2",
+      "timestamp": "2026-10-06T05:49:07.818Z",
+      "userAgent": "curl/7.88.1"
+    }
+  ],
+  "activity_logs": [
+    {
+      "id": "act_1791281162563_tirjs",
+      "action": "Profile & Education Updated",
+      "details": "Profile information and education records saved permanently.",
+      "timestamp": "2026-10-06T10:06:02.563Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791281147721_mtuhr",
+      "action": "Profile Photo Updated",
+      "details": "New profile photo saved permanently: favicon_1791281147718_two4rn.svg",
+      "timestamp": "2026-10-06T10:05:47.721Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791281136104_8s2tx",
+      "action": "Profile Photo Updated",
+      "details": "New profile photo saved permanently: favicon_1791281136097_75pit9.svg",
+      "timestamp": "2026-10-06T10:05:36.104Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791281128830_fu9lr",
+      "action": "Admin Login",
+      "details": "Logged in from 127.0.0.1",
+      "timestamp": "2026-10-06T10:05:28.830Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791279393157_a4ihb",
+      "action": "Custom Link Deleted",
+      "details": "Deleted Custom Link ID: cust_1791279385738_thd8",
+      "timestamp": "2026-10-06T09:36:33.157Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791279385738_w5jad",
+      "action": "Custom Link Created",
+      "details": "Created Test Persistent Link",
+      "timestamp": "2026-10-06T09:36:25.738Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791279374628_tgl1l",
+      "action": "Settings Updated",
+      "details": "Website settings, branding, or section visibility changed.",
+      "timestamp": "2026-10-06T09:36:14.628Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791279358994_hd35r",
+      "action": "Admin Login",
+      "details": "Logged in from 127.0.0.1",
+      "timestamp": "2026-10-06T09:35:58.994Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791278815413_djchx",
+      "action": "Profile Updated",
+      "details": "General profile and hero identity updated.",
+      "timestamp": "2026-10-06T09:26:55.413Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791278800188_eoog9",
+      "action": "Admin Login",
+      "details": "Logged in from 127.0.0.1",
+      "timestamp": "2026-10-06T09:26:40.188Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791267047005_u3svo",
+      "action": "Admin Login",
+      "details": "Logged in from 127.0.0.1",
+      "timestamp": "2026-10-06T06:10:47.005Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791266013707_uumdv",
+      "action": "Admin Login",
+      "details": "Logged in from 127.0.0.1",
+      "timestamp": "2026-10-06T05:53:33.707Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791265755933_31u6k",
+      "action": "Message Deleted",
+      "details": "Deleted contact message msg_1791265747818_stog2",
+      "timestamp": "2026-10-06T05:49:15.933Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791265755919_azfva",
+      "action": "Admin Login",
+      "details": "Logged in from 127.0.0.1",
+      "timestamp": "2026-10-06T05:49:15.919Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791265751776_c0h6b",
+      "action": "Admin Login",
+      "details": "Logged in from 127.0.0.1",
+      "timestamp": "2026-10-06T05:49:11.776Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1791265742877_0ygnh",
+      "action": "Admin Login",
+      "details": "Logged in from 127.0.0.1",
+      "timestamp": "2026-10-06T05:49:02.877Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    },
+    {
+      "id": "act_1",
+      "action": "System Initialized",
+      "details": "Initial database bootstrap completed with secure admin account.",
+      "timestamp": "2026-10-06T05:48:54.375Z",
+      "adminEmail": "harshsharma18089@gmail.com"
+    }
+  ]
+}
